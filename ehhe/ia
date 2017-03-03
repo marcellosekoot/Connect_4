@@ -1,0 +1,14 @@
+Za :
+
+importances :
+
+
+	-aligner 4				colonne
+	-empecher aligner 4 coup direct		colonne
+	-empecher aligner 4 coup sur nous	non colonne
+	
+	-former double coup			colonne
+	-empecher former double coup adverse	non colonne
+	
+	-empecher destruction coup		non colonne
+
